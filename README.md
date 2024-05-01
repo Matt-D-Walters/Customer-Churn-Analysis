@@ -1,0 +1,2 @@
+<h1> Business Problem: </h1>
+At Regork, we are trying to be differentiators and test out our waters in the telecommunications sector. This means we need to understand how our customers are using and leaving our services. This is important for our company because it can help us understand the most influential reasons why people are no longer using our services. This analysis will allow you to help understand our current customers as well as know what resonates well with our loyal customers so we can try and replicate that moving forward when marketing to a new customer base.
